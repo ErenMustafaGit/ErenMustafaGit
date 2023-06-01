@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there  ![dog-computer (1)](https://github.com/ErenMustafaGit/ErenMustafaGit/assets/82711747/03cbc521-100d-4c95-b236-7731dd72a819)
+
+### <img align="left" width="150" height="150" src="https://github.com/ErenMustafaGit/ErenMustafaGit/assets/82711747/b486d531-6a8c-4546-b1b0-eceb97ddbe7a"> Hello, I'm Eren Ceylan
+<br/>
 
 I’m a French based developer, passionate about Blockchain and Soccer. I am 21 years old engineering student in France.
 If you want to know more about me and my work, feel free to contact me at <a href="mailto:pro.erenmustafa.ceylan@gmail.com">pro.erenmustafa.ceylan@gmail.com</a>.
